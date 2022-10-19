@@ -11,8 +11,7 @@ img {
     width: 500px;
     background-color: blue;
     padding: 50px;
-    border: 1rem solid;
-    border-color: blueviolet;
+    border: 1rem solid blueviolet;
 }
 
 #spanId {
